@@ -1,0 +1,45 @@
+<nav class="navbar navbar-default">
+    <!-- if you want to keep the navbar hidden you can add this class to the navbar "navbar-burger"-->
+    <div class="container" style="margin-top: 10px;">
+        <div class="navbar-header">
+            <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar bar1"></span>
+                <span class="icon-bar bar2"></span>
+                <span class="icon-bar bar3"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+                <img src="{{ "/img/site_logo.jpg" }}">
+            </a>
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-right navbar-uppercase">
+              {% for entry in site.data.navigation %}
+                {% if entry.sublinks %}
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                       aria-expanded="false">{{ entry.name }}</a>
+                    {% assign sublinks = entry.sublinks %}
+
+                    <ul class="dropdown-menu dropdown-danger">
+                      {% for sublink in sublinks %}
+                        <li>
+                            <a href="{{ sublink.url }}">{{ sublink.name }}</a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                </li>
+                {% else %}
+                <li class="">
+                    <a href="{{ entry.url }}"  role="button" >{{ entry.name }}</a></li>
+                {% endif %}
+
+                {% endfor %}
+                <li>
+                    <a href="/contact-us" class="btn btn-danger btn-fill">Connect</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</nav>

@@ -1,0 +1,21 @@
+<div class="text-area">
+    {% for entry in site.data.timeline %}
+    {% assign entry_description = entry.descriptions %}
+    <div class="row">
+        <div class="col-md-3">
+            <div class="title-area">
+                <h2 style="margin-top: 0px">{{ entry.year }}</h2>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="description">
+                {% for description in entry_description %}
+                <p class=" text-justify">{{ description.desc }}
+                </p>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <br>
+    {% endfor %}
+</div>

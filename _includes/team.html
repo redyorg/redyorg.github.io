@@ -1,0 +1,64 @@
+<div class="section">
+
+    <div class="">
+        <div class="title-area">
+            <h2>Management</h2>
+        </div>
+        <div class="text-area">
+            {% for entry in site.data.team %}
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="title-area">
+                        <h3 style="margin-top: 0px">{{ entry.name }}</h3>
+                        <h4>{{ entry.title }}</h4>
+                    </div>
+
+                </div>
+                <div class="col-md-12">
+                    <div class="description">
+                        <p class=" text-justify">{{ entry.info }}
+                        </p>
+                        <div class=" text-center">
+                            <br>
+                            <p>Connect with {{entry.short_name}} via:</p>
+                            <a href="mailto:{{ entry.email}}" target="_blank" style="padding-right: 50px; color: #ff7279"><i class="fa fa-2x fa-envelope-o" aria-hidden="true"></i></a>
+
+                            <a href="{{ entry.linkedin}}" target="_blank" style="color: #ff7279"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a>
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+
+<div class="">
+    <div class="title-area">
+        <h2>The Board</h2>
+    </div>
+    <div class="text-area">
+        {% for entry in site.data.board %}
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-area">
+                    <h3 style="margin-top: 0px">{{ entry.name }}</h3>
+                    <h4>{{ entry.title }}</h4>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="description">
+                    <p class="text-justify">{{ entry.info  }}
+                    </p>
+                </div>
+            </div>
+        </div>
+        <br><br>
+        {% endfor %}
+    </div>
+</div>
