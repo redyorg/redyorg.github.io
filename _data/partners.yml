@@ -1,0 +1,22 @@
+- type: Content Partner
+  desc: It is through our content partners that we can reach millions of people, in even the remotest regions, on a daily basis. Facebook internet.org’s Free Basics platform allows us to distribute our content to an ever-increasing population that is being connected to the internet.
+- type: Authors
+  desc: Right for Education’s strong foundation is its community of expert authors. From Law and Women’s Rights to Business, African culture and the Environment; Right for Education brings people from all over the world together to share their expert knowledge with a growing community in Sub-Saharan Africa.
+- type: Product Partners
+  desc: Our product partners enable us to bring out technical products that are tailored specifically to the audience we serve. Together, we design and implement educational products that reach the right people in the best way possible.
+  partner:
+    - name: clem109
+      link: http://www.clem109.com
+- type: Corporate Partners
+  desc: It is because of of our corporate sponsors that we continue to be able to provide millions of people in Africa with educational content free of charge.
+  partner:
+    - name: Cannizaro
+      link: http://www.cannizaro.ie
+
+- type: Education Partners
+  desc: Our education partners continue to serve as an invaluable source for knowledge, research and resources that help us in achieving our mission.
+  partner:
+    - name: Moritz-Heynman Scholarship Foundation
+      link: http://www.clem109.com
+    - name: Oxford University Careers Service
+      link: http://www.clem109.com

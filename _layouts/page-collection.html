@@ -1,0 +1,32 @@
+---
+layout: page
+---
+<div class="section section-gray py-5" style="padding-top:0px; padding-bottom: 0px">
+{% assign ordered_pages = site.[page.collection] | sort:"order" %}
+{% for entry in ordered_pages %}
+  <div class="custom" style="">
+    <div id="section{{ entry.order }}"></div>
+
+  <div class="custom-content" style="">
+    {% if entry.title != 'none' %}
+
+      <h2>{{ entry.title }}</h2>
+    {% endif %}
+
+  <div class="text-justify">{{ entry.content | markdownify }}</div>
+  {% if entry.button-text %}
+  <a href="{{ entry.button-url }}" class="card-title"><button class="btn btn-round btn-danger">{{entry.button-text}}</button></a>
+  {% endif %}
+
+
+  </div>
+  {% if entry.image_path %}
+    <img src="{{entry.image_path}}" style="max-width: 100%; padding-top: 20px"></img>
+  {% endif %}
+
+</div>
+
+
+
+{% endfor %}
+</div>

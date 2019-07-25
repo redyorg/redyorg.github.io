@@ -1,0 +1,168 @@
+---
+layout: default
+---
+
+<div class="section section-header section-header-small">
+    <div class="parallax">
+        <div class="image"
+             style="background-image:url('{{ "../" }}{{ page.header_image_path }}')">
+    </div>
+    <div class="container">
+        <div class="content">
+            <h1>{{ page.header_title}}</h1>
+            {% if page.header_subtitle %}
+            <h3>{{ page.header_subtitle}}</h3>
+            {% endif %}
+            {% if page.header_button-text %}
+            <button type="button" class="btn btn-white btn-fill">{{ page.header_button-text }}</button>
+            {% endif %}
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="section section-gray py-5" style="padding-top:0px; padding-bottom: 0px">
+    <div class="custom" style="">
+
+        <div class="custom-content">
+            <div class="text-justify">{{ page.content | markdownify }}</div>
+            {% if page.button-text %}
+            <a href="{{ page.button-url }}" class="card-title"><button class="btn btn-round btn-danger">{{page.button-text}}</button></a>
+            {% endif %}
+
+
+        </div>
+        {% if page.bottom_image_path %}
+        <img src="{{page.bottom_image_path}}" style="max-width: 100%; padding-top: 20px"></img>
+        {% endif %}
+
+        <div class="section section-our-projects section-our-projects-fluid" id="casestudies" style="padding-bottom: 0px">
+
+            <div class="title-area">
+                <h2 style="font-weight: 400;">Case Studies</h2>
+                <p class="description">
+                    We design campaigns that are important to our readers:
+
+                    Healthcare,
+                    Business & Finance,
+                    Environment,
+                    Education,
+                    Women's Rights,
+                    Human Rights,
+                    African Culture/Arts,
+                    Governance. <br><br>
+
+                    Find out more about what we have done so far:
+                </p>
+                <br><br>
+            </div>
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik-Accra-Fisher-Col014.jpg" />
+                            <a class="over-area" href="casestudies/healthcare">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Healthcare</p>
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Healthcare</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik-Accra-Fisher-Col025.jpg" />
+                            <a class="over-area" href="casestudies/business">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Business</p>
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Business</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik-Accra-Fisher-Col009.jpg" />
+                            <a class="over-area" href="casestudies/environment">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Environment</p>
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Environment</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik_Bansah_SchoolHohoe014.jpg" />
+                            <a class="over-area" href="casestudies/education">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Education</p>
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Education</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik-Accra-Market009.jpg" />
+                            <a class="over-area" href="casestudies/womensrights">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Women's Rights</p>
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Women's Rights</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik_Bansah_BridgeHohoe011.jpg" />
+                            <a class="over-area" href="casestudies/humanrights">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Human Rights</p>
+                                </div>
+                            </a>
+
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Human Rights</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik_Day1_AgbogbozaFestival026.jpg" />
+                            <a class="over-area" href="casestudies/africanculture">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>TRead more about what we have done in the area African Culture/Arts</p>
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">African Culture/Arts</h3>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="project">
+                            <img src="img/RED/Czybik_Bansah_EPSchoolHohoe008.jpg" />
+                            <a class="over-area" href="casestudies/governance">
+                                <div class="content">
+                                    <h1><i class="fa fa-angle-right" aria-hidden="true"></i></h1>
+                                    <p>Read more about what we have done in the area Governance</p>
+
+                                </div>
+                            </a>
+                        </div>
+                        <h3 style="font-weight: 100" class="text-center">Governance</h3>
+                    </div>
+                </div>
+            </div>
+            <br><br><br>
+        </div>
+
+    </div>
+
+</div>
+

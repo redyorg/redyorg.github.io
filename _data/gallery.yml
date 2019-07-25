@@ -1,0 +1,41 @@
+- album: Ghana 2016
+  description: Here is some text
+  images:
+    - image-description: Some description
+      image_path: /img/header-6.jpeg
+    - image-description: Some description
+      image_path: /img/header-1.jpeg
+    - image-description: Some description
+      image_path: /img/header-2.jpeg
+    - image-description: Some description
+      image_path: /img/header-3.jpeg
+    - image-description: Some description
+      image_path: /img/header-4.jpeg
+
+- album: Ghana 2012
+  description: Here is some text
+  images:
+    - image-description: Some description
+      image_path: /img/header-6.jpeg
+    - image-description: Some description
+      image_path: /img/header-1.jpeg
+    - image-description: Some description
+      image_path: /img/header-2.jpeg
+    - image-description: Some description
+      image_path: /img/header-3.jpeg
+    - image-description: Some description
+      image_path: /img/header-4.jpeg
+
+- album: Ghana 2013
+  description: Here is some text
+  images:
+    - image-description: Some description
+      image_path: /img/header-6.jpeg
+    - image-description: Some description
+      image_path: /img/header-1.jpeg
+    - image-description: Some description
+      image_path: /img/header-2.jpeg
+    - image-description: Some description
+      image_path: /img/header-3.jpeg
+    - image-description: Some description
+      image_path: /img/header-4.jpeg

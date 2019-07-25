@@ -1,0 +1,19 @@
+<div class="section section-get-started">
+    <div class="parallax filter filter-color-black">
+        <div class="image" style="background-image: url('{{ include.image_path }}')">
+        </div>
+        <div class="container">
+            <div class="title-area">
+                <h2 class="text-white">{{ include.title }}</h2>
+                <div  class="description">
+              </div>
+            </div>
+
+            {% if include.button-text %}
+            <div class="button-get-started">
+                <button type="button" class="btn btn-lg btn-danger btn-fill ">{{ include.button-text }}</button>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
