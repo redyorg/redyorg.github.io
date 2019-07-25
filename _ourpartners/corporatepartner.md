@@ -1,6 +1,6 @@
 ---
 title: Corporate Partner
-order: 5
+order: 6
 image_path:
 ---
 

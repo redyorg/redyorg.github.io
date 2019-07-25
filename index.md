@@ -1,5 +1,5 @@
 ---
 layout: home
-counter: 3.2M Followers
+counter: 6.5M Followers
 ---
 |

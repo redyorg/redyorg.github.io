@@ -390,7 +390,7 @@ body {
 .navbar-burger{
     .navbar-collapse{
         position: fixed;
-        display: block;
+        display: block !important;
         top: 0;
         height: 100vh !important;
         width: 300px;
@@ -495,7 +495,7 @@ body {
         @include transition-none();
     }
 
-    .open .dropdown-menu{
+    .show .dropdown-menu{
         position: static;
     }
 
@@ -655,7 +655,7 @@ body {
 
     .navbar-collapse {
         position: fixed;
-        display: block;
+        display: block !important;
         top: 0;
         height: 100vh;
         width: 230px;
@@ -765,7 +765,7 @@ body {
         & > li > a,
         > li > a:hover,
         > li > a:focus,
-        .navbar-nav .open .dropdown-menu > li > a:active {
+        .navbar-nav .show .dropdown-menu > li > a:active {
             color: white;
         }
 
@@ -778,7 +778,7 @@ body {
         }
 
         & > li > a,
-        .open .dropdown-menu > li > a{
+        .show .dropdown-menu > li > a{
             opacity: .7;
             background: transparent;
 
@@ -788,7 +788,7 @@ body {
             }
         }
 
-        &.navbar-nav .open .dropdown-menu > li > a:active {
+        &.navbar-nav .show .dropdown-menu > li > a:active {
             opacity: 1;
         }
 

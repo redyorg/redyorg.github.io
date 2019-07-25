@@ -91,6 +91,7 @@
             border-radius: 3px;
             color: $black-medium;
             @include opacity(.85);
+            outline: none;
         }
 
         > .dropdown > a:hover .caret,
@@ -99,9 +100,9 @@
             border-top-color: $black-color;
         }
 
-        > .open > a,
-        > .open > a:hover,
-        > .open > a:focus{
+        > .show > a,
+        > .show > a:hover,
+        > .show > a:focus{
             background-color: transparent;
             color: $gold-color;
         }
@@ -225,9 +226,9 @@
                 border-top-color: $white-color;
             }
 
-            > .open > a,
-            > .open > a:hover,
-            > .open > a:focus {
+            > .show > a,
+            > .show > a:hover,
+            > .show > a:focus {
                 background-color: transparent;
                 color: $white-color;
                 @include opacity(1);
@@ -247,7 +248,7 @@
         .btn-default.btn-fill:focus,
         .btn-default.btn-fill:active,
         .btn-default.btn-fill.active,
-        .open .dropdown-toggle.btn-fill.btn-default{
+        .show .dropdown-toggle.btn-fill.btn-default{
             border-color: $white-color;
             @include opacity(1);
         }

@@ -1,7 +1,7 @@
 ---
 title: Education Partners
-order: 6
-image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg
+order: 7
+<!-- image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg -->
 
 ---
 

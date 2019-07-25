@@ -1,6 +1,6 @@
 ---
 title: Our Audience
-image_path: /img/RED/Czybik-Agbogboza-FeaturesCOL090.jpg
+<!-- image_path: /img/RED/Czybik-Agbogboza-FeaturesCOL090.jpg -->
 order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Our Mission
 image_path: /img/RED/Czybik-Agbogboza-FeaturesCOL090.jpg
-order: 1
+order: 2
 ---
 
 

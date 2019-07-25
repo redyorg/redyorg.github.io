@@ -3,7 +3,7 @@ title: none
 order: 1
 image_path:
 ---
-
+&nbsp;
 
 Our partners form the pillars of our success. Outstanding organisations and individuals from all over the world, along with our community on the ground in Ghana, continue to provide their unwavering support for our mission. Our unified resolve to improve the lives of others guarantees Right For Education’s place at the forefront of social change in Sub-Saharan Africa.
 

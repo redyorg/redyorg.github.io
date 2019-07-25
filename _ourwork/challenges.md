@@ -9,6 +9,7 @@ button-url: /ourcampaigns
 button-text: Find out how we tackle the challenges we face
 ---
 
+&nbsp;
 
 Right For Education recognises that one of the major contributors of all the challenges we face is rooted in social attitude. We use all of our resources and expertise to dissect the issues in a social African context. We believe that it is important to be realistic and pragmatic, so we make sure that we tackle factors that will make a real difference.
 
