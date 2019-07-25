@@ -48,6 +48,9 @@ collections:
   ourpartners:
     output: false
     permalink: /ourpartners/:path/
+  aboutourmedia:
+    output: false
+    permalink: /aboutourmedia/:path/
   ourwork:
     output: true
   casestudies:

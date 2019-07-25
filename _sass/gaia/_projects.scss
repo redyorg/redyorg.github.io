@@ -249,9 +249,11 @@ body.noscroll{
 		vertical-align: middle;
 		display: inline-block;
 		width: 100%;
-		min-height: 165px;
-		word-break: break;
-		@include opacity(.5s);
+		// min-height: 165px;
+		top: 50%;
+	    transform: translateY(-50%);
+		word-break: break-word;
+		@include opacity(.5);
 		@include perspective(300px);
 	}
 

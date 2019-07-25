@@ -1,15 +1,8 @@
 ---
-layout: page-default
-permalink: /about
-header_title: 'About R:Ed'
-header_subtitle:
-header_image_path: /img/RED/Coronation.JPG
-bottom_image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe010.jpg
-button-url:
-button-text:
-timeline: 'true'
+title: About Us
+order: 1
+image_path:
 ---
-
 
 &nbsp;
 
@@ -20,7 +13,7 @@ timeline: 'true'
 
 &nbsp;
 
-Right for Education is a unique Pan-African movement, dedicated to educating and empowering people in over 35 countries in Sub-Saharan Africa. We use the democratising power of the internet to connect and build a community of Africans who, like us, believe that the future is Africa's!
+Right for Education is a unique Pan-African movement, dedicated to educating and empowering people in over 45 countries in Sub-Saharan Africa. We use the democratising power of the internet to connect and build a community of Africans who, like us, believe that the future is Africa's!
 
 ### &nbsp;
 
@@ -58,6 +51,6 @@ We work with expert authors from the world’s leading universities to provide o
 
 * Update our followers on new topics and new ideas.
 
-* We have so far reached over 10 million people in Sub-Saharan Africa directly.
+* We have so far reached over 450 million people in Sub-Saharan Africa directly.
 
 ## &nbsp;

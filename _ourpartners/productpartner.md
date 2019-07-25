@@ -1,7 +1,7 @@
 ---
 title: Product Partners
-order: 4
-image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg
+order: 5
+<!-- image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg -->
 
 ---
 

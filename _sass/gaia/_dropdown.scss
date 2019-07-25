@@ -12,7 +12,7 @@
     @include transform-translate-y(-20px);
     @include transition($slow-transition-time, $transition-bezier);
 
-    .open &{
+    .show &{
         @include opacity(1);
         visibility: visible;
         @include transform-translate-y(0px);
