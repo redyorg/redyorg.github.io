@@ -877,6 +877,24 @@ body {
             height: 215vh;
         }
     }
+
+    .navbar-nav{
+         > li {
+            > .dropdown-menu {
+                border-top-color: rgba(0, 0, 0, 0.15);
+                border-top-width: 1px;
+                padding-top: 0.75rem;
+                height: auto;
+                border: none;
+                box-shadow: none;
+                width: 100%;
+
+                a {
+                    padding-left: 0 !important;
+                }
+            }
+         }
+    }
 }
 @media(max-width:930px) {
     .section.section-our-team .title-description,
