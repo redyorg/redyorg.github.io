@@ -4,7 +4,7 @@
   sublinks:
     - name: Our Foundation
       url: /about-red-foundation
-    - name: Our Media
+    - name: Media
       url: /about-our-media
     # - name: Meet The Team
     #   url: /#
@@ -12,7 +12,7 @@
       url: /ourpartners
 
 - name: Our Appraoch
-  url: /ourapproach/
+  url: /ourapproach
 
 - name: Our Work
   url: /ourwork/

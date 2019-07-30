@@ -43,8 +43,7 @@ collections:
   aboutus:
     output: true
   ourapproach:
-    output: false
-    permalink: /ourapproach/:path/
+    output: true
   ourpartners:
     output: false
     permalink: /ourpartners/:path/
