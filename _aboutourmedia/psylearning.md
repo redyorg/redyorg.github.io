@@ -1,6 +1,6 @@
 ---
 title:  Psychology of Learning
-order: 3
+order: 4
 <!-- image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg -->
 ---
 
