@@ -12,19 +12,19 @@ button-text:
 
 &nbsp;
 
-Every R:Ed Campaign is different and tailored specifically to the demands of the situation. Underlying each one is a systemic approach that allows us to make the most of the work we do:
+Every REdy campaign tailored specifically to the demands of the situation. Underlying each one is a systemic approach that allows us to make the most of the work we do:
 
 &nbsp;
 
 > #### Stage 1: Identifying the problem
 
-R:Ed has a diverse audience, consisting of different cultures, languages and values. The first step of a campaign is therefore to research and identify the social causes of the issue and who it affects. This allows us to determine the target audience for the campaign.
+REdy has a diverse audience, consisting of different cultures, languages and values. The first step of a campaign is therefore to research and identify the social causes of the issue and who it affects. This allows us to determine the target audience for the campaign.
 
 &nbsp;
 
 > #### Stage 2: Gaging Social Attitude
 
-Once R:Ed has identified the target audience, we then conduct our own research into social attitudes surrounding the issue. We publish a series of learning material, each designed to gage the social reaction of a specific point relating to the issue.
+Once REdy has identified the target audience, we then conduct our own research into social attitudes surrounding the issue. We publish a series of learning material, each designed to gage the social reaction of a specific point relating to the issue.
 
 &nbsp;
 

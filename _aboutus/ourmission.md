@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-image_path: /img/RED/Czybik-Agbogboza-FeaturesCOL090.jpg
+image_path: /img/RED/Czybik-Accra-Fisher-Col012.jpg
 order: 2
 ---
 

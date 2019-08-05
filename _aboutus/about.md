@@ -6,24 +6,27 @@ image_path:
 
 &nbsp;
 
-> "Upon completing construction of the school in my village in Africa, I realised that access to information was one of the key challenges facing the continent. Bringing books in from abroad proved to be inefficient and the content was not appropriate for our audience in Africa. R:Ed was founded in 2014 and is the embodiment of the idea that the whole continent should have access to learning material that was created specifically for them. But it is not just about access. We want to change the mindsets that restricted access to education in the first place."&nbsp;
+Right for Education is a unique Pan-African movement, dedicated to educating and empowering people in over 45 countries in Sub-Saharan Africa. We use the democratising power of the internet to connect and build a community of Africans who, like us, believe that the future is Africa’s!
+
+<h3 class="mt-5">How we started</h3>
+
+> “Upon completing construction of the school in my village in Africa, I realised that access to information was one of the key challenges facing the continent. Bringing books in from abroad proved to be inefficient and the content was not appropriate for our audience in Africa. R:Ed was founded in 2014 and is the embodiment of the idea that the whole continent should have access to learning material that was created specifically for them. But it is not just about access. We want to change the mindsets that restricted access to education in the first place.” &nbsp;
 >
 >
 > **Dr. Susann Dattenberg-Doyle Queen of Gbi Kpoeta and Founder of Right for Education**
 
 &nbsp;
 
-Right for Education is a unique Pan-African movement, dedicated to educating and empowering people in over 45 countries in Sub-Saharan Africa. We use the democratising power of the internet to connect and build a community of Africans who, like us, believe that the future is Africa's!
-
 ### &nbsp;
 
-### Our work is exclusively created for our audience in Sub-Saharan Africa
+### Our work is exclusively created for our audience in Africa
 
 &nbsp;
 
 All people have the right to integrate knowledge in the context of their own culture, so we make sure that all our learning materials are relevant and respectful of the diversity of African culture.
 
-As the biggest, independent communicator in Sub-Saharan Africa, the Right for Education Foundation is solely concerned with issues regarding the African continent and its people. We believe that education can strengthen society and inspire positive social change.
+As the biggest, independent communicator in Africa, the Right for Education Foundation is solely concerned with issues regarding the African continent and its people. We believe that education can strengthen society and inspire positive social change.
+
 
 &nbsp;
 
@@ -31,7 +34,7 @@ As the biggest, independent communicator in Sub-Saharan Africa, the Right for Ed
 
 &nbsp;
 
-Our educational approach is unique, and we believe in two-way communication and an active approach to learning. We work to change beliefs and mindsets, ensuring that our work is based on cultural tolerance and listening to the messages we receive guarantees unconditional positive feedback.
+Our educational approach is unique. We believe in two-way communication and an interactive approach to learning. We work to change beliefs and mindsets. Our work is based on cultural tolerance. We listen to the messages we receive, guaranteeing unconditional positive feedback.
 
 ### &nbsp;
 
@@ -39,9 +42,10 @@ Our educational approach is unique, and we believe in two-way communication and 
 
 &nbsp;
 
-Since 2014, Right for Education Foundation has reached over 10 million Africans with digital learning content via our social media channels. Our E-Library consisting of hundreds of texts on topics such as business, health, and human rights, forms the basis of what R:Ed is about.
+Since 2014, Right for Education Foundation has reached over 450 million Africans with digital learning content via our social media channels. Our E-Library consisting over a 1000 texts on topics such as business, health, and human rights, forms the basis of what R:Ed is about.
 
-We work with expert authors from the world’s leading universities to provide online educational content that reaches millions of people, even in remote areas, across over 35 countries in Sub-Saharan Africa. Via our E-Library, we:
+We work with expert authors from the world’s leading universities to provide online  original African-centric educational content that reaches millions of people, even in remote areas, across over 45 countries in Africa. Via our E-Library, we:
+
 
 &nbsp;
 
@@ -52,5 +56,7 @@ We work with expert authors from the world’s leading universities to provide o
 * Update our followers on new topics and new ideas.
 
 * We have so far reached over 450 million people in Sub-Saharan Africa directly.
+
+To learn more about our foundation, please visit <a href="https://rightforeducation.org/about-us/">About Us</a>
 
 ## &nbsp;
