@@ -2,9 +2,9 @@
 - name: About Us
   url: /aboutus/
   sublinks:
-    - name: REDy Media
+    - name: REdy Media
       url: /about-our-media
-    - name: REDy Foundation
+    - name: REdy Foundation
       url: /about-red-foundation
     # - name: Meet The Team
     #   url: /#
@@ -14,7 +14,7 @@
 - name: Our Work
   url: /ourwork/
   sublinks:
-    - name: Our Appraoch
+    - name: Our Approach
       url: /ourapproach
     - name: The Challenges
       url: /thechallenges

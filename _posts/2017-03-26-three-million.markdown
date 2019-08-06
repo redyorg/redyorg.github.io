@@ -6,7 +6,7 @@ month: Mar
 day: 26
 categories: news
 description: Right For Education is proud to announce that it now has 3+ million followers across over 35 countries in Sub-Saharan Africa, marking a year of continuous growth from originally 80,000 followers this time last year.
-image_path:
+image_path: /img/header-7.jpeg
 ---
 Right For Education is proud to announce that it now has 3+ million followers across over 35 countries in Sub-Saharan Africa, marking a year of continuous growth from originally 80,000 followers this time last year.
 
