@@ -20,7 +20,7 @@ sidebar:
 
 ### &nbsp;
 
-* Sub-Saharan Africa are reported to have the [lowest health and health-care systems in the world](http://wws.princeton.edu/news-and-events/news/item/sub-saharan-africans-rate-their-health-and-health-care-among-lowest-world).
+* Sub-Saharan Africa is reported to have the [lowest health and health-care systems in the world](http://wws.princeton.edu/news-and-events/news/item/sub-saharan-africans-rate-their-health-and-health-care-among-lowest-world).
 
 * The region has [11% of the world’s population but carries 24% of the global disease burden](http://www.ifc.org/wps/wcm/connect/REGION__EXT_Content/Regions/Sub-Saharan+Africa/Investments/HealthEducation/).
 

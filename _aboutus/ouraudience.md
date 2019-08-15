@@ -7,7 +7,7 @@ order: 3
 
 &nbsp;
 
-**Right For Education is unique**. It is a community of millions of people across over 35 countries in Sub-Saharan Africa, all reading, commenting and debating complex African issues. Right For Education is completely bilingual in French and English, breaking down the barriers of entry for the entire continent.
+**Right For Education is unique**. It is a community of millions of people across over 45 countries in Sub-Saharan Africa, all reading, commenting and debating complex African issues. Right For Education is completely bilingual in French and English, breaking down the barriers of entry for the entire continent.
 
 Our constant exposure to our audience provides invaluable insight into real-life social attitudes on key topics.
 

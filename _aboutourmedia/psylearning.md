@@ -7,8 +7,7 @@ order: 4
 &nbsp;
 {: .present-before-paste}
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident sequi assumenda perferendis placeat eos tenetur delectus, ullam minus rerum ipsum illo soluta possimus excepturi nobis autem qui ad, necessitatibus doloremque.</p>
-<p>Aperiam laborum asperiores eius, repellendus perspiciatis tempore deserunt esse tenetur rem corporis unde natus quisquam aut temporibus nisi nam iusto porro tempora necessitatibus nulla maxime. Deserunt et labore doloremque quam?</p>
+<p>The key to learning and personal development, is open discussion and the free exchange of ideas in their own context. Our focus is not on teaching, but posing questions alongside relevant factual content; allowing readers to develop their own responses, thoughts and opinions.</p>
 {: .present-before-paste}
 
 &nbsp;

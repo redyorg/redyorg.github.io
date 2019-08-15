@@ -1,5 +1,5 @@
 ---
-title:  REDy can be Engaged in Five Ways
+title:  REdy can be Engaged in Five Ways
 order: 1
 <!-- image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg -->
 ---
@@ -77,7 +77,7 @@ order: 1
 				<div class="emedia_txt_holder">
 					<div class="emedia_txt_wrap">
 						<h4>Specialized Consultancy</h4>
-						<p>Access to the foundations vast experience for consulting projects.</p>
+						<p>Access to the foundation's vast experience for consulting projects.</p>
 					</div>
 				</div>
 			</div>

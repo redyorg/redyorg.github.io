@@ -8,8 +8,9 @@ order: 2
 &nbsp;
 {: .present-before-paste}
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident sequi assumenda perferendis placeat eos tenetur delectus, ullam minus rerum ipsum illo soluta possimus excepturi nobis autem qui ad, necessitatibus doloremque.</p>
-<p>Aperiam laborum asperiores eius, repellendus perspiciatis tempore deserunt esse tenetur rem corporis unde natus quisquam aut temporibus nisi nam iusto porro tempora necessitatibus nulla maxime. Deserunt et labore doloremque quam?</p>
+<p>Our media channels gauge interest and enthusiasm for new products and services
+amongst the frequently untapped African market. By identifying the needs and preferences of
+African communities, we can smoothly introduce new products to a ready and willing audience.</p>
 {: .present-before-paste}
 
 &nbsp;

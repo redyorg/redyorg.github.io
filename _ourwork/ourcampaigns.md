@@ -12,7 +12,7 @@ button-text:
 
 &nbsp;
 
-Every REdy campaign tailored specifically to the demands of the situation. Underlying each one is a systemic approach that allows us to make the most of the work we do:
+Every REdy campaign is tailored specifically to the demands of the situation. Underlying each one is a systemic approach that allows us to make the most of the work we do:
 
 &nbsp;
 
@@ -24,7 +24,7 @@ REdy has a diverse audience, consisting of different cultures, languages and val
 
 > #### Stage 2: Gaging Social Attitude
 
-Once REdy has identified the target audience, we then conduct our own research into social attitudes surrounding the issue. We publish a series of learning material, each designed to gage the social reaction of a specific point relating to the issue.
+Once REdy has identified the target audience, we then conduct our own research into social attitudes surrounding the issue. We publish a series of learning material, each designed to gauge the social reaction of a specific point relating to the issue.
 
 &nbsp;
 
@@ -42,4 +42,4 @@ The campaign design consists of finding the optimal method of instigating social
 
 > #### Stage 5: Implementation
 
-The timeline of a campaign may differ depending on the nature of the project. It takes time to achieve social change, but it is our job to expedite the process. Exploiting all of the resources at our disposal, we strategically launch a digital movement that is guaranteed to reach million of people across Sub-Saharan Africa.
+The timeline of a campaign may differ depending on the nature of the project. It takes time to achieve social change, but it is our job to expedite the process. Exploiting all of the resources at our disposal, we strategically launch a digital movement that is guaranteed to reach millions of people across Sub-Saharan Africa.

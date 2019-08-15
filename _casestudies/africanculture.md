@@ -23,11 +23,11 @@ sidebar:
 
 ### &nbsp;
 
-* Africa is host to an estimate 1500-2000 different languages and dialects.
+* Africa is host to an estimated 1500-2000 different languages and dialects.
 
 * A population of 1.3 billion people is spread over 54 countries. Over 3000 tribes make Africa one of the most diverse continents in the world.
 
-* Some of the [highest rural population percentages in the world](http://data.worldbank.org/indicator/SP.RUR.TOTL.ZS) contribute to great Africa’s great diversity, but also to logistical challenges.
+* Some of the [highest rural population percentages in the world](http://data.worldbank.org/indicator/SP.RUR.TOTL.ZS) contribute to Africa’s great diversity, but also to logistical challenges.
 
 #### &nbsp;
 
