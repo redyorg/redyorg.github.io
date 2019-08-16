@@ -1,7 +1,6 @@
 ---
 title: How We Work
 order: 2
-image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg
 ---
 
 
