@@ -43,6 +43,8 @@
     .image-header,
     .header img{
         width: 100%;
+        // Edited Here on 16rh AUg 19
+        max-height: 250px;
         border-radius: $border-radius-base $border-radius-base 0 0;
 
         &.image-full{
@@ -76,8 +78,12 @@
     }
 
 }
+// Edited Here on 16th Aug 19
+.card-blog-holder {
+    margin-bottom: 2rem;
+}
 .card-blog {
-
+height: 100%;
     .content {
         position: relative;
         text-align: center;
