@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 order: 3
 image_path:
 ---
