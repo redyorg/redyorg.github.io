@@ -1,5 +1,5 @@
 ---
-title:  Testing Interest of New Products
+title:  Research and Data
 order: 3
 <!-- image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg -->
 ---
@@ -7,8 +7,7 @@ order: 3
 &nbsp;
 {: .present-before-paste}
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident sequi assumenda perferendis placeat eos tenetur delectus, ullam minus rerum ipsum illo soluta possimus excepturi nobis autem qui ad, necessitatibus doloremque.</p>
-<p>Aperiam laborum asperiores eius, repellendus perspiciatis tempore deserunt esse tenetur rem corporis unde natus quisquam aut temporibus nisi nam iusto porro tempora necessitatibus nulla maxime. Deserunt et labore doloremque quam?</p>
+<p>Our surveys and online data are analysed by gender, age and country to provide a robust understanding of the needs, desires and preferences of African communities. This allows us to identify gaps, and the products and services that will enhance the lives of our readers.</p>
 {: .present-before-paste}
 
 &nbsp;

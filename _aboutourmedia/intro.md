@@ -1,5 +1,5 @@
 ---
-title:  Introduction to the market
+title:  Africa is REdy
 order: 2
 <!-- image_path: /img/RED/Czybik_Bansah_EPSchoolHohoe007.jpg -->
 ---
