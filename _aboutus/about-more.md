@@ -44,6 +44,6 @@ We work with expert authors from the world’s leading universities to provide o
 
 * We have so far reached over 450 million people in Sub-Saharan Africa directly.
 
-To learn more about our foundation, please visit <a href="https://rightforeducation.org/about-us/">About Us</a>
+To learn more about our foundation, please visit <a href="https://rightforeducation.org/about-us/" style="font-size: 1.5rem; color: #ff7279;">About Us</a>
 
 ## &nbsp;
