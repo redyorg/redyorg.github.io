@@ -8,7 +8,7 @@ order: 2
 &nbsp;
 {: .present-before-paste}
 
-<p>Our media channels gauge interest and enthusiasm for new products and services
+<p>Our media channels gauge interesti and enthusiasm for new products and services
 amongst the frequently untapped African market. By identifying the needs and preferences of
 African communities, we can smoothly introduce new products to a ready and willing audience.</p>
 {: .present-before-paste}
