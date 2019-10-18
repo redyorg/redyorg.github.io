@@ -2,24 +2,26 @@
 - name: About Us
   url: /aboutus/
   sublinks:
-    - name: REdy Media
+    - name: Community
       url: /about-our-media
-    - name: REdy Foundation
-      url: /about-red-foundation
+    - name: Methodology
+      url: /ourapproach
+    #- name: REdy Foundation
+    #  url: /about-red-foundation
     # - name: Meet The Team
     #   url: /#
-    - name: Our Partners
+    - name: Partners
       url: /ourpartners
 
-- name: Our Work
-  url: /ourwork/
-  sublinks:
-    - name: Our Approach
-      url: /ourapproach
-    - name: The Challenges
-      url: /thechallenges
-    - name: Our Campaigns
-      url: /ourcampaigns
+#- name: Our Work
+#  url: /ourwork/
+#  sublinks:
+#    - name: Our Approach
+#      url: /ourapproach
+#    - name: The Challenges
+#      url: /thechallenges
+#    - name: Our Campaigns
+#      url: /ourcampaigns
 
 - name: News
   url: /news
