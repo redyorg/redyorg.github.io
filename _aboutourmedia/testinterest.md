@@ -9,6 +9,3 @@ order: 3
 
 <p>Our surveys and online data are analysed by gender, age and country to provide a robust understanding of the needs, desires and preferences of African communities. This allows us to identify gaps, and the products and services that will enhance the lives of our readers.</p>
 {: .present-before-paste}
-
-&nbsp;
-{: .present-before-paste}
