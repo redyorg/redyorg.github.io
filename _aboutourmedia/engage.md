@@ -27,7 +27,7 @@ order: 1
 		<div class="emedia_holder my-3">
 			<div class="emedia_wrap">
 				<div class="emedia_img_holder mb-3">
-					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/Research.png" alt="Research" class="img-fluid emedia_img" width="125"></div>
+					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/academic1.png" alt="Research" class="img-fluid emedia_img" width="125"></div>
 				</div>
 				<div class="emedia_txt_holder">
 					<div class="emedia_txt_wrap">
@@ -42,7 +42,7 @@ order: 1
 		<div class="emedia_holder my-3">
 			<div class="emedia_wrap">
 				<div class="emedia_img_holder mb-3">
-					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/promotion.png" alt="Promotion" class="img-fluid emedia_img" width="125"></div>
+					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/promotion1.png" alt="Promotion" class="img-fluid emedia_img" width="125"></div>
 				</div>
 				<div class="emedia_txt_holder">
 					<div class="emedia_txt_wrap">
@@ -57,7 +57,7 @@ order: 1
 		<div class="emedia_holder my-3">
 			<div class="emedia_wrap">
 				<div class="emedia_img_holder mb-3">
-					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/resolutions.png" alt="Resolutions" class="img-fluid emedia_img" width="125"></div>
+					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/resolution1.png" alt="Resolutions" class="img-fluid emedia_img" width="125"></div>
 				</div>
 				<div class="emedia_txt_holder">
 					<div class="emedia_txt_wrap">
@@ -72,7 +72,7 @@ order: 1
 		<div class="emedia_holder my-3">
 			<div class="emedia_wrap">
 				<div class="emedia_img_holder mb-3">
-					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/consultancy.png" alt="Consultancy" class="img-fluid emedia_img" width="125"></div>
+					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/consultancy1.png" alt="Consultancy" class="img-fluid emedia_img" width="125"></div>
 				</div>
 				<div class="emedia_txt_holder">
 					<div class="emedia_txt_wrap">
