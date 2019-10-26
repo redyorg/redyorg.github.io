@@ -3,7 +3,7 @@ layout: post
 title:  "Right for Education accepts Interns from Oxford University"
 date:   2017-03-26 14:09:53 +0800
 month: Mar
-day: 26
+day: 17
 description: Right For Education hosts a series of internship programmes with Oxford University throughout the year.
 image_path: /img/RED/Czybik_Day1_AgbogbozaFestival006.jpg
 ---
