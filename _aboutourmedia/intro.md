@@ -13,5 +13,3 @@ amongst the frequently untapped African market. By identifying the needs and pre
 African communities, we can smoothly introduce new products to a ready and willing audience.</p>
 {: .present-before-paste}
 
-&nbsp;
-{: .present-before-paste}
