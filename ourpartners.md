@@ -1,7 +1,7 @@
 ---
 layout: page-collection
 title: Partners
-image_path: img/RED/Czybik_Bansah_EPSchoolHohoe010.jpg
+image_path: img/partners/partners-background.jpg
 collection: ourpartners
 permalink: /ourpartners
 ---
