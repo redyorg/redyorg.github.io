@@ -12,7 +12,7 @@ order: 1
 		<div class="emedia_holder my-3">
 			<div class="emedia_wrap">
 				<div class="emedia_img_holder mb-3">
-					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/Posting.png" alt="Postings" class="img-fluid emedia_img" width="125"></div>
+					<div class="emedia_img_wrap"><img src="{{site.baseurl}}/img/posting1.png" alt="Postings" class="img-fluid emedia_img" width="125"></div>
 				</div>
 				<div class="emedia_txt_holder">
 					<div class="emedia_txt_wrap">
