@@ -2,8 +2,8 @@
 layout: post
 title:  "Right for Education's recent events - Global Education"
 date:   2019-08-06 10:34:33 +0800
-month: August
-day: 06
+month: March
+day: 19
 description: Dr. Susann Dattenberg-Doyle speaks at the Global Education and Skills Forum.
 image_path: /img/media-partners/global-forum.jpg
 ---
