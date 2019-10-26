@@ -12,7 +12,7 @@ Our partners form the pillars of our success. Outstanding organisations and indi
 **A short message from Ewefiaga Togbui AGBOLI K. F. AGOKOLI IV**
 
 
-<div class="img-responsive">(/uploads/versions/king---x----529-378x---.png)</div>
+<div class="img-responsive">![](/uploads/versions/king---x----529-378x---.png)</div>
 > "As the king of the Ewe in Togo and a member of the National Human Rights Commission, I work with many NGOs in Togo, particularly in the field of education, because I strongly believe in all the possibilities that education can enable a person to fulfil. These possibilities are endless and we should devote time and effort to educating children as well as adults, now for a better and stronger future."
 >
 >
