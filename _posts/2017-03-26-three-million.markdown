@@ -3,7 +3,7 @@ layout: post
 title:  "Right for Education reaches the 3 million mark"
 date:   2017-03-26 14:09:53 +0800
 month: Mar
-day: 26
+day: 17
 categories: news
 description: Right For Education is proud to announce that it now has 3+ million followers across over 35 countries in Sub-Saharan Africa, marking a year of continuous growth from originally 80,000 followers this time last year.
 image_path: /img/header-7.jpeg
