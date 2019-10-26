@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Right for Education's recent events - Commonwealth"
-date:   2019-08-16 10:033:23 +0800
-month: December
+date:   2019-08-16 10:33:23 +0800
+month: Dec
 day: 18
 description: Thanks to the Moritz Heymann scholarship, Right for Education is hosting its first ever summer internship in Kenya. 7 interns have been accepted, including one from Yale University.
 image_path: /img/media-partners/common-wealth-summit.png
