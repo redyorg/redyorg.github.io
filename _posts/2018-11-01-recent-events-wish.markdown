@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Right for Education's recent events - Wish Foundation"
-date:   2019-08-06 11:09:53 +0800
-month: August
-day: 06
+date:   2018-11-01 11:09:53 +0800
+month: Nov
+day: 18
 description: Thanks to the Moritz Heymann scholarship, Right for Education is hosting its first ever summer internship in Kenya. 7 interns have been accepted, including one from Yale University.
 image_path: /img/media-partners/wish-foundation.jpg
 ---
