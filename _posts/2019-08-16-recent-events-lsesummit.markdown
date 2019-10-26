@@ -2,8 +2,8 @@
 layout: post
 title:  "Right for Education's recent events - LSE Africa Summit"
 date:   2019-08-16 10:34:13 +0800
-month: August
-day: 06
+month: March
+day: 19
 description: Right for Education attends the LSE Africa Summit as a Media Partner.
 image_path: /img/media-partners/lse-africa-summit.jpg
 ---
