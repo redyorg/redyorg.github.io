@@ -21,6 +21,8 @@ image_path: /img/media-partners/global-forum.jpg
 
  
 <div class="content_wrap">
-	<p>Take a look at our founder's speech at GESF in Dubai on What Can Politicians do to</p></div>
-
+	<p>Take a look at our founder's speech at GESF in Dubai on What Can Politicians do to Accelerate EdTech Adoption?</p></div>
+<div class="content_wrap">
+	<iframe width="420" height="315" src="https://www.youtube.com/watch?v=pN2xg3KmkhQ" autoplay></iframe> 
+</div>
 {: .present-before-paste}
