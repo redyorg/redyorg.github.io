@@ -22,8 +22,7 @@ image_path: /img/media-partners/lse-africa-summit.jpg
 	<p>This years LSE Africa Summit, focusing on Africa’s New Frontiers, provided our readers great insights into the future of Africa.</p></div>
 
  
-<div class="content_wrap">
-	<p><a href="https://www.youtube.com/watch?v=pN2xg3KmkhQ">Accelerate EdTech Adoption?</a></p></div>
+
 
 &nbsp;
 {: .present-before-paste}
