@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Agbogboza in Notse, Togo on Togo TV"
-date:   2018-07-01 10:30:53 +0800
-month: July
+date:   2018-09-01 10:30:53 +0800
+month: Sep
 day: 18
 description: 
 image_path: /img/site-logo.jpg
