@@ -15,3 +15,10 @@ Our education partners continue to serve as an invaluable source for knowledge, 
 
 </div>
 
+<div class="img_holder py-4">
+		<img src="{{site.baseurl}}/img/Dendrite_Connect_Logo.png" alt="Dendrite Connect" class="img-fluid">
+		<img src="{{site.baseurl}}/img/TLP_Logo.png" alt="The Learning Partnership" class="img-fluid">
+		<p>Dendrite Connect, The Learning Partnership</p>
+
+</div>
+
