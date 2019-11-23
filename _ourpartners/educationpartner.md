@@ -10,8 +10,8 @@ Our education partners continue to serve as an invaluable source for knowledge, 
 
 
 <div class="img_holder py-4">
-		<img src="{{site.baseurl}}/img/partners/oxford-internship.jpg" alt="Moritz-Heynman Scholarship Foundation" class="img-fluid">
-		<p>Moritz-Heynman Scholarship Foundation, Oxford University Careers Service</p>
+	<img src="{{site.baseurl}}/img/partners/oxford-internship.jpg" alt="Moritz-Heynman Scholarship Foundation" class="img-fluid">
+	<p>Moritz-Heynman Scholarship Foundation, Oxford University Careers Service</p>
 
 </div>
 
@@ -25,5 +25,9 @@ Our education partners continue to serve as an invaluable source for knowledge, 
 		</div>
 	</div>
 	<p>Dendrite Connect, The Learning Partnership</p>
+</div>
+
+<div class="img_holder py-4">
+	<img src="{{site.baseurl}}/img/partners/LOGO-HIGHRES.png" alt="REIMAGINE EDUCATION" class="img-fluid">
 </div>
 
