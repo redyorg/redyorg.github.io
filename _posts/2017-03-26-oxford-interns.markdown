@@ -5,7 +5,7 @@ date:   2017-03-26 14:09:53 +0800
 month: Mar
 day: 17
 description: Right For Education hosts a series of internship programmes with Oxford University throughout the year.
-image_path: /img/RED/Czybik_Day1_AgbogbozaFestival006.jpg
+image_path: /img/site-logo.jpg
 ---
 Right For Education hosts a series of internship programmes with Oxford University throughout the year, attracting dedicated individuals who are looking to make an impact. A special congratulations to our latest interns from Oxford University who have just finished their placement with us: Alice Rubbra, Matthews McFahn and Jenna Elliott.
 
